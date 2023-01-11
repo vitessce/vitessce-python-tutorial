@@ -1,0 +1,19 @@
+name: vitessce-tutorial-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python==3.8
+  - numpy
+  - pandas
+  - jupyterlab
+  - scanpy
+  - anndata==0.8.0
+  - zarr
+  - scipy
+  - pip
+  - pip:
+    - loompy
+    - generate-tiff-offsets>=0.1.7
+    - leidenalg
+    - ome-zarr==0.2.1
