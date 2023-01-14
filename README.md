@@ -25,10 +25,10 @@ Activate the environment:
 conda activate vitessce-tutorial-env
 ```
 
-Launch JupyterLab:
+Launch JupyterLab in the sub-directory of `tutorials` of interest:
 
 ```sh
-jupyter lab
+jupyter lab --notebook-dir=./tutorials/imaging
 ```
 
 ## References
