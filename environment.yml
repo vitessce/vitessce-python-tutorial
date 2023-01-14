@@ -18,4 +18,4 @@ dependencies:
     - generate-tiff-offsets
     - leidenalg
     - ome-zarr==0.2.1
-    - vitessce[all]==2.0.2
+    - vitessce[all]==3.0.0

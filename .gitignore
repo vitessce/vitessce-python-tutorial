@@ -2,4 +2,5 @@
 __pycache__/
 raw_data/*.ipynb
 processed_data/
+exported_data/
 .DS_Store
