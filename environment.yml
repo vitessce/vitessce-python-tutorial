@@ -7,7 +7,8 @@ dependencies:
   - numpy
   - pandas
   - jupyterlab
-  - scanpy
+  - numba>=0.53.0
+  - scanpy>=1.6.0
   - anndata==0.8.0
   - zarr
   - scipy
@@ -18,4 +19,4 @@ dependencies:
     - generate-tiff-offsets
     - leidenalg
     - ome-zarr==0.2.1
-    - vitessce[all]==3.0.0
+    #- vitessce[all]==3.0.0
