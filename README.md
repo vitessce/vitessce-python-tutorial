@@ -6,7 +6,7 @@ Prerequisites:
 - familiarity with using the command line (e.g., installing command line tools, downloading files)
 
 ## Setup
-Set up the Python environment using [`conda`](https://conda.io/projects/conda/en/latest/user-guide/install/index.html):
+Set up the Python environment using conda:
 
 ```sh
 conda env create -f environment.yml
