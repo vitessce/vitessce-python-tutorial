@@ -25,10 +25,16 @@ Activate the environment:
 conda activate vitessce-tutorial-env
 ```
 
-Launch JupyterLab in the sub-directory of `tutorials` of interest:
+Launch JupyterLab in the sub-directory of interest:
 
 ```sh
+jupyter lab --notebook-dir=./tutorials/transcriptomics
+# or
 jupyter lab --notebook-dir=./tutorials/imaging
+# or
+jupyter lab --notebook-dir=./tutorials/spatial_single_cell
+# or
+jupyter lab --notebook-dir=./templates
 ```
 
 ## References
