@@ -1,11 +1,32 @@
 # vitessce-python-tutorial
 
+## Overview
+
+This tutorial will teach you how to use the `vitessce` python package to construct Vitessce configurations for local datasets.
+
+### Examples
+
+The example notebooks in `examples/` demonstrate the types of visualizations that are possible to create with Vitessce. These contain minimal examples of each data type, and they point to remote data so that they can be executed in cloud notebook environments such as Google Colab.
+
+### Tutorials
+
+The tutorial notebooks in `tutorials/` demonstrate required data processing and conversion steps, visualization configuration, and data/configuration exporting.
+
+### Templates
+
+The template notebooks in `templates/` contain fill-in-the-blank comments for adapting them to your own data. They contain fewer explanations and descriptions than the tutorial notebooks, and the three steps of data processing, visualization configuration, and exporting are merged rather than split across different notebooks.
+
+### Screenshots
+
+
+
+## Setup
+
 Prerequisites:
 - [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) installation
 - familiarity with Python code and Jupyter notebooks
 - familiarity with using the command line (e.g., installing command line tools, downloading files)
 
-## Setup
 Set up the Python environment using conda:
 
 ```sh
