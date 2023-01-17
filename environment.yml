@@ -13,10 +13,11 @@ dependencies:
   - zarr
   - scipy
   - tifffile
+  - scikit-image
   - pip
   - pip:
     - loompy
     - generate-tiff-offsets
     - leidenalg
     - ome-zarr==0.2.1
-    #- vitessce[all]==3.0.0
+    - vitessce[all]==3.0.0
