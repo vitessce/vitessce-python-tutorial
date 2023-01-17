@@ -42,6 +42,10 @@ To download the raw data for the tutorials, run the following notebooks:
 - `./tutorials/transcriptomics/raw_data/download.ipynb`
 - `./tutorials/spatial_single_cell/raw_data/download.ipynb`
 
+## Additional resources
+
+- [Vitessce demo data processing scripts](https://github.com/vitessce/vitessce-python/tree/main/demos)
+
 ## References
 
 Raw data:
