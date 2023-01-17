@@ -1,8 +1,13 @@
 # vitessce-python-tutorial
 
-## Overview
-
 This tutorial will teach you how to use the `vitessce` python package to construct Vitessce configurations for local datasets.
+
+<div style="display: flex; flex-direction: column;">
+<img src="./.github/img/screenshot02.png" width="400" />
+<img src="./.github/img/screenshot04.png" width="400" />
+<img src="./.github/img/screenshot05.png" width="400"/>
+<img src="./.github/img/screenshot06.png" width="400"/>
+</div>
 
 ### Examples
 
@@ -15,10 +20,6 @@ The tutorial notebooks in `tutorials/` demonstrate required data processing and 
 ### Templates
 
 The template notebooks in `templates/` contain fill-in-the-blank comments for adapting them to your own data. They contain fewer explanations and descriptions than the tutorial notebooks, and the three steps of data processing, visualization configuration, and exporting are merged rather than split across different notebooks.
-
-### Screenshots
-
-
 
 ## Setup
 
