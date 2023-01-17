@@ -3,5 +3,7 @@ __pycache__/
 raw_data/*.ipynb
 processed_data/
 exported_data/
+exported_imaging_data/
+exported_transcriptomics_data/
 data/
 .DS_Store
