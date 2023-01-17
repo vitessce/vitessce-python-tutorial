@@ -46,11 +46,4 @@ To download the raw data for the tutorials, run the following notebooks:
 
 Raw data:
 - Transcriptomics data from https://www.covid19cellatlas.org/index.healthy.html#habib17
-  - https://covid19.cog.sanger.ac.uk/habib17.processed.h5ad
-- Image data from https://idr.github.io/ome-ngff-samples/
-  - https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.3/idr0040A/3491626.zarr
-- Image data from https://mcmicro.org/datasets/
-  - https://mcmicro.s3.amazonaws.com/exemplars/exemplar-001.zip
-- HuBMAP data:
-  - https://assets.hubmapconsortium.org/a4be39d9c1606130450a011d2f1feeff/ometiff-pyramids/processedMicroscopy/VAN0012-RK-102-167-PAS_IMS_images/VAN0012-RK-102-167-PAS_IMS-registered.ome.tif?token=
-  - https://portal.hubmapconsortium.org/browse/dataset/664b8227e17ee2a35a504dd8c19c2531.vitessce.json
+- Visium data from https://scanpy.readthedocs.io/en/stable/generated/scanpy.datasets.visium_sge.html#scanpy.datasets.visium_sge
