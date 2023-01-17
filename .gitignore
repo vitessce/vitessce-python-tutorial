@@ -5,5 +5,6 @@ processed_data/
 exported_data/
 exported_imaging_data/
 exported_transcriptomics_data/
+exported_spatial_single_cell_data/
 data/
 .DS_Store
