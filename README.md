@@ -37,6 +37,11 @@ jupyter lab --notebook-dir=./tutorials/spatial_single_cell
 jupyter lab --notebook-dir=./templates
 ```
 
+To download the raw data for the tutorials, run the following notebooks:
+
+- `./tutorials/transcriptomics/raw_data/download.ipynb`
+- `./tutorials/spatial_single_cell/raw_data/download.ipynb`
+
 ## References
 
 Raw data:
