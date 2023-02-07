@@ -14,6 +14,10 @@ dependencies:
   - scipy
   - tifffile
   - scikit-image
+  - h5py
+  - tqdm
+  - mudata
+  - muon
   - pip
   - pip:
     - loompy
@@ -21,3 +25,7 @@ dependencies:
     - leidenalg
     - ome-zarr==0.2.1
     - vitessce[all]==3.0.0
+    - negspy
+    - pybbi>=0.2.3
+    - mira-multiome>=1.0.1
+    - episcanpy
