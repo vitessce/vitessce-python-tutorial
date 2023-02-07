@@ -29,3 +29,5 @@ dependencies:
     - pybbi>=0.2.3
     - mira-multiome>=1.0.1
     - episcanpy
+    - mudatasets[muon]
+    - mofapy2
