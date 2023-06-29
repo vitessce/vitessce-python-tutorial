@@ -36,7 +36,7 @@ conda env create -f environment.yml
 
 ### Image data processing (optional)
 
-To convert image data into OME-TIFF format, you will want to install [`bftools`](https://docs.openmicroscopy.org/bio-formats/5.9.1/users/comlinetools/index.html) by unzipping it. My installation is located at `~/software/bftools`.
+To convert image data into OME-TIFF format, you will want to install [`bftools`](https://docs.openmicroscopy.org/bio-formats/latest/users/comlinetools/index.html) by unzipping it. My installation is located at `~/software/bftools`.
 
 
 ## Run notebooks
